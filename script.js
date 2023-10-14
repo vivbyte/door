@@ -5,7 +5,7 @@ function changeImage() {
     const sound = document.getElementById("sound");
 
     // Change the image
-    clickableImage.src = "/assets/open.webp";
+    clickableImage.src = "assets/open.webp";
 
     // Display the overlay and play the sound
     overlay.style.opacity = 1;
